@@ -5,9 +5,9 @@ AI social media automation agent
 
 A free, local-first AI social media agent** that researches a topic, drafts a post, critiques it, and delivers a polished, ready-to-publish caption.
 
-- Tech: Python, LangGraph, LangChain (Gemini), DuckDuckGo Search
-- Use‑case: Quickly generate high‑quality social posts with an agentic workflow
-- Cost: You only pay for your own Gemini API usage (no extra SaaS)
+- **Tech**: Python, LangGraph, LangChain (Gemini), DuckDuckGo Search
+- **Use‑case**: Quickly generate high‑quality social posts with an agentic workflow
+- **Cost**: You only pay for your own Gemini API usage (no extra SaaS)
 
 ---
 
